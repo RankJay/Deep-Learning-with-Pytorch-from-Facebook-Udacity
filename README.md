@@ -4,6 +4,32 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here, as well.
 
+# UDACITY’S INTELLECTUAL PROPERTY RIGHTS
+The Services are owned and operated by Udacity and its licensors. All content or other material available through the Services, including, but not limited to, information on the Websites, on-line lectures, speeches, video or other lessons, applications, pre-assessments and assessments, quizzes, presentation materials, homework assignments, programming assignments, programs, code, licenses, and other images, text, layouts, arrangements, displays, illustrations, documents, surveys, materials, audio and video clips, HTML, and files (collectively, the "Content"), are the property of Udacity and/or its affiliates or licensors and are protected by copyright, patent and/or other proprietary intellectual property rights under United States and foreign law.
+
+Udacity logos, trademarks and service marks which may appear on the Website(s), throughout the Services and in Online Courses ("Marks"), are the property of Udacity and are protected under United States and foreign laws. All other trademarks, service marks, and logos used on the Services, with or without attribution, are the trademarks, service marks, or logos of their respective owners. In addition, elements of the Services are protected by trade dress and other federal and state intellectual property laws and may not be copied, reproduced, downloaded or distributed in any way in whole or in part without the express written consent of Udacity.
+
+From time to time, Udacity may include software, code, instructions, or other such information in the Content or materials for the Services; any such information is provided on an "as-is" basis for instructional purposes only and is subject to the Disclaimer of Warranties and Limitation of Liabilities sections below and other terms herein. Any use of such information for commercial purposes is strictly prohibited. Udacity and/or its affiliates and licensors reserve all rights not expressly granted herein to the Services, Content, and Marks.
+
+# LICENSE TO USE THE SERVICES
+Subject to your compliance with this Terms of Use, Udacity hereby grants you a freely revocable, worldwide, non-exclusive, non- transferable, non-sublicensable limited right and license (a) to access, internally use and display the Services, including the Content, at your location solely as necessary to participate in the Online Courses as permitted hereunder, and (b) to download the Educational Content (as defined below) so that you may exercise the rights granted to you under the section entitled "Creative Commons license" below. You must abide by all copyright notices or restrictions contained on the Websites, in any Online Course, or in the Content. You may not delete any attributions, legal or proprietary notices on the Websites, in the Online Courses, or on the Content.
+
+In some instances, some of the Content belonging to our licenses and provided in connection with the Online Courses, may require you to agree to that licensor’s terms and conditions. Udacity has no control and is not responsible for those third-party services as further described in the Linking to Third Party Sites and Content section below.
+
+# LICENSE TO EDUCATIONAL CONTENT
+As used herein, "Educational Content" means a subset of the Content containing the educational materials made available to you through the Online Courses, including such online lectures, speeches, video lessons, quizzes, presentation materials, homework assignments, programming assignments, code samples, and other educational materials and tools. Such Educational Content will be considered the "Licensed Material" under the terms of the CC License (as defined below).
+
+Udacity hereby grants you a license in and to the Educational Content subject to, as modified herein, the terms and conditions of the Creative Commons Attribution-NonCommercial- NoDerivs 3.0 License located at http://creativecommons.org/licenses/by-nc-nd/4.0 and successor locations for such license (the "CC License") provided that, in each case, the Educational Content is specifically marked as being subject to the CC License.
+
+Without limiting the generality of the terms of the CC License, the following are types of uses that Udacity expressly defines as falling outside of the definition of "non-commercial":
+
+- (a) the sale or rental of (i) any part of the Educational Content, ((ii) any derivative works based at least in part on the Educational (Content, or (iii) any collective work that includes any part of the (Educational Content;
+- (b) the sale of access or a link to any part of the Educational (Content without first obtaining informed consent from the buyer (that the buyer is aware that the Educational Content, or such part (thereof, is available at the Website free of charge;
+- (c) providing training, support, or editorial services that use or (reference the Educational Content in exchange for a fee;
+- (d) the sale of advertisements, sponsorships, or promotions placed (on the Educational Content, or any part thereof, or the sale of (advertisements, sponsorships, or promotions on any website or blog (containing any part of the Educational Material, including without (limitation any "pop-up advertisements";
+- (e) the use of Educational Content by a college, university, school, or other educational institution for instruction where tuition is charged; and
+- (f) the use of Educational Content by a for-profit corporation or non-profit entity for internal professional development or training.
+
 ## Table Of Contents
 
 ### Tutorials
