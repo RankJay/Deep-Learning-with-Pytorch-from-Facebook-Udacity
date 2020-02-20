@@ -81,6 +81,7 @@ Without limiting the generality of the terms of the CC License, the following ar
 ---
 
 # Dependencies
+Inclusion of `numpy` and `matplotlib` libraries has been made for manipulating output in desired format.
 
 ## Configure and Manage Your Environment with Anaconda
 
