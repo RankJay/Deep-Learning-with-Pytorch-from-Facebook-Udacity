@@ -2,7 +2,7 @@
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
 
-There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here, as well.
+There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here with a tincture of my solution towards the problem, as well.
 
 # UDACITY’S INTELLECTUAL PROPERTY RIGHTS
 All the Services are owned and operated by Udacity and its licensors. All content or other material available through the Services, including, but not limited to, information on the Websites, on-line lectures, speeches, video or other lessons, applications, pre-assessments and assessments, quizzes, presentation materials, homework assignments, programming assignments, programs, code, licenses, and other images, text, layouts, arrangements, displays, illustrations, documents, surveys, materials, audio and video clips, HTML, and files (collectively, the "Content"), are the property of Udacity and/or its affiliates or licensors and are protected by copyright, patent and/or other proprietary intellectual property rights under United States and foreign law.
