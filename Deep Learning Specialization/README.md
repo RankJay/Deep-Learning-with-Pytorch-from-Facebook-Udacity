@@ -3,3 +3,4 @@ This module includes solutions to all the deep learning program tutorials provid
 - Neural Networks and Deep Learning
 - Convolutional Neural Networks
 - Structuring ML Projects
+- Sequence Models
